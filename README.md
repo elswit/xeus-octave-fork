@@ -1,14 +1,19 @@
-# A Quick Tutotial For ODE Test Problems 
+# Octave environemnt to run ODE Test Problems 
 
-Use this button to run try ODE-Test-Problems in a stand-alone Jupyter Notebook environment: 
+This repository build minimal binder and docker envinronments to run Octave on Jupyter. It is built to test our Octave/MATLAB package of ODE [Test Problems](https://github.com/ComputationalScienceLaboratory/ODE-Test-Problems) `OTP`. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elswit/otp-binder.git/HEAD?labpath=quick-start.ipynb)
+Use this button to try ODE Test Problems in Jupyter Lab: 
 
-This Notebook includes the following examples: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elswit/xeus-octave-fork.git/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FComputationalScienceLaboratory%252FODE-Test-Problems%26urlpath%3Dlab%252Ftree%252FODE-Test-Problems%252Fnotebooks%252Fquick-start.ipynb)
 
-* Running ODE test problems and plotting the solutions
-* Changing the parameters of the problem and solvers
+If you prefer the classic Jupyter Notebooks:
 
-This Notebooks uses the [xeus-octave](https://github.com/jupyter-xeus/xeus-octave) kernel for GNU Octave.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elswit/xeus-octave-fork.git/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FComputationalScienceLaboratory%252FODE-Test-Problems%26urlpath%3Dtree%252FODE-Test-Problems%252Fnotebooks%252Fquick-start.ipynb)
+
+If you want to download and use the package in your lcoal Octave/MATLAB installation please refer to:
+
+https://github.com/ComputationalScienceLaboratory/ODE-Test-Problems
+
+This repository uses the [xeus-octave](https://github.com/jupyter-xeus/xeus-octave) kernel for GNU Octave.
 
 
