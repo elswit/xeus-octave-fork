@@ -6,9 +6,10 @@ Use this button to try ODE Test Problems in Jupyter Lab:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elswit/xeus-octave-fork.git/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FComputationalScienceLaboratory%252FODE-Test-Problems%26urlpath%3Dlab%252Ftree%252FODE-Test-Problems%252Fnotebooks%252Fquick-start.ipynb)
 
-If you prefer the classic Jupyter Notebooks:
+The latest (experimental) version of the notebooks is here:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elswit/xeus-octave-fork/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FComputationalScienceLaboratory%252FODE-Test-Problems%26urlpath%3Dlab%252Ftree%252FODE-Test-Problems%252Fnotebooks%252Fquick-start.ipynb%26branch%3Dnotebooks)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elswit/xeus-octave-fork.git/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FComputationalScienceLaboratory%252FODE-Test-Problems%26urlpath%3Dtree%252FODE-Test-Problems%252Fnotebooks%252Fquick-start.ipynb)
+
 
 If you want to download and use the package in your lcoal Octave/MATLAB installation please refer to:
 
