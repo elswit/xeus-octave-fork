@@ -1,6 +1,6 @@
 # Octave environemnt to run ODE Test Problems 
 
-This repository build minimal binder and docker envinronments to run Octave on Jupyter. It is built to test our Octave/MATLAB package of ODE [Test Problems](https://github.com/ComputationalScienceLaboratory/ODE-Test-Problems) `OTP`. 
+This repository builds minimal binder and docker envinronments to run Octave on Jupyter. It is built to test our Octave/MATLAB package of [ODE Test Problems](https://github.com/ComputationalScienceLaboratory/ODE-Test-Problems). 
 
 Use this button to try ODE Test Problems in Jupyter Lab: 
 
