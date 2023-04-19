@@ -6,7 +6,8 @@ Use this button to run try ODE-Test-Problems in a stand-alone Jupyter Notebook e
 
 This Notebook includes the following examples: 
 
-  * Running forward problem and plotting the solution plots
+* Running ODE test problems and plotting the solutions
+* Changing the parameters of the problem and solvers
 
 This Notebooks uses the [xeus-octave](https://github.com/jupyter-xeus/xeus-octave) kernel for GNU Octave.
 
