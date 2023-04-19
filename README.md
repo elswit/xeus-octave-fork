@@ -8,7 +8,7 @@ Use this button to try ODE Test Problems in Jupyter Lab:
 
 The latest (experimental) version of the notebooks is here:
 
-[![Binder]([https://mybinder.org/logo.svg)](https://mybinder.org/v2/gh/elswit/xeus-octave-fork/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FComputationalScienceLaboratory%252FODE-Test-Problems%26urlpath%3Dlab%252Ftree%252FODE-Test-Problems%252Fnotebooks%252Fquick-start.ipynb%26branch%3Dnotebooks)
+[![Binder]([https://mybinder.org/static/logo.svg)](https://mybinder.org/v2/gh/elswit/xeus-octave-fork/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FComputationalScienceLaboratory%252FODE-Test-Problems%26urlpath%3Dlab%252Ftree%252FODE-Test-Problems%252Fnotebooks%252Fquick-start.ipynb%26branch%3Dnotebooks)
 
 
 
