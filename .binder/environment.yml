@@ -7,9 +7,6 @@ dependencies:
   - plotly
   # Runtime dependency for Octave ``symbolic`` package.
   - sympy
-  # For compiling the Octave ``control`` and ``signal`` packages
-  - compilers
-  - make
   - pip
   - pip:
     - nbgitpuller
